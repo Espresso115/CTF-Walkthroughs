@@ -28,7 +28,7 @@ So, the answer for this question is: ***nmap,hydra,sqlmap,curl,feroxbuster***.
 
 ### 2. What endpoint was vulnerable to a brute-force attack?
 For this question, we have to look at the **hydra** section in the *access.log* file, as **hydra** is used for brute forcing attacks.
-![We can see /rest/user/login was targeted](images/6.png)
+![We can see /rest/user/login was targeted](Images/6.png)
 So, the answer is: ***/rest/user/login***.
 
 ### 3. What endpoint was vulnerable to SQL injection?
