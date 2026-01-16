@@ -46,5 +46,6 @@ The malware uses Excel XLM macro instruction to invoke the Windows API functions
 ![](Images/5.png)
 Answer: ***URLDownloadToFileA***
 
+<br>
 
 So, that concludes the lab!
