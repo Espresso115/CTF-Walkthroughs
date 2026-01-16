@@ -23,6 +23,7 @@ Answer: ***921.36*** KB
 ### 2. What word do the threat actors use in log messages to describe their victims, based on the name of an ancient hunted creature?
 Reading the summary of the report, we can find the word that the threat actors use in log messages to refer to their victims.
 ![](Images/2.png)
+
 Answer: ***Mammoth***
 
 
@@ -33,6 +34,8 @@ Under the *First Sub-Campaign* section, we can find the malicious website to be 
 ### 4. Which cloud storage service did the campaign operators use to host malware samples for both macOS and Windows OS versions?
 The cloud storage service can be found under the same *First Sub-Campaign* section or if you remember, it was also mentioned on the summary at the starting of the report.
 ![](Images/3.png)
+
+Answer: ***Dropbox***
 
 
 ### 5. The malicious executable contains a configuration file that includes base64-encoded URLs and a password used for archived data decompression, enabling the download of second-stage payloads. What is the password for decompression found in this configuration file?

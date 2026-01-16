@@ -1,4 +1,4 @@
-# IcedID Lab
+# IcedID
 
 
 ### What is **IcedID**?
