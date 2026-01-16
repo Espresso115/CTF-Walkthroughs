@@ -71,5 +71,5 @@ Answer: ***Lazarus***
 <br>
 <br>
 
-So, that concludes the lab.
+So, this concludes the lab.
 
