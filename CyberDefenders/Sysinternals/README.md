@@ -5,7 +5,7 @@ Scenario: Conduct endpoint forensic analysis to detect, analyze, and understand 
 For this lab we will use tools like: FTK Imager, Amache Parser & VirusTotal.
 
 
-Download the file and open the disk image in FTK Imager. (Autopsy also works.)
+Download the file and open the disk image in FTK Imager (or Autopsy).
 
 
 ### 1. What was the malicious executable file name that the user downloaded?
