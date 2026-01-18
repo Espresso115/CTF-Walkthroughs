@@ -1,6 +1,6 @@
 # The Crime
 
-We are given an Android device's artifacts. We have to Utilize **ALEAPP** to analyze the artifacts, reconstructing a victim's financial details, movements, and communication patterns.
+We are given an Android device's artifacts. We have to utilize **ALEAPP** to analyze the artifacts, reconstructing a victim's financial details, movements, and communication patterns.
 
 What is **ALEAPP**?
 It is an open-source Android forensic parser that extracts and presents meaningful artifacts from Android app data and system logs (for this particular lab, I've used the GUI version of ALEAPP).
